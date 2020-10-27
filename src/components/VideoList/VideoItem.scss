@@ -1,0 +1,20 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  margin-left: 20px;
+  background-color: #a1cb00;
+  opacity: 0.7;
+  border-radius: 20px;
+
+  &__video {
+  }
+
+  &__title {
+    font-size: 10px;
+    color: white;
+    width: 100%;
+  }
+}

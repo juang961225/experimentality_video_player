@@ -1,0 +1,19 @@
+.navigation {
+  color: white;
+  display: flex;
+  align-items: flex-end;
+
+  &__logo {
+    width: 100px;
+    height: 50px;
+  }
+
+  &__container {
+    margin-left: 5%;
+    font-weight: bold;
+  }
+
+  &__input {
+    margin-left: 5%;
+  }
+}
